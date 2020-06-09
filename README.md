@@ -13,8 +13,12 @@ This is application repository which will store all the app code and use other r
 # Use
 
  - You can copy all the config files directly at the root of the project using this command
-       ```cp -rf .configs/* .
-```
+       ```
+       cp -rf .configs/* .
+       ```
+
+
+
 # Further reading
  
  - https://devops4solutions.com/application-code-and-deployment-code-in-different-repository-using-gitlabci-for-kubernetes-deployment/
